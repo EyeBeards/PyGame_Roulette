@@ -5,7 +5,7 @@ A review of basic Object Oriented Programming, using Fundamental Python and PyGa
 
 ## Version 0.0
 
-Core game logic is functional. No responses are animated. A multitude of bugs are yet to be logged.\n
+Core game logic is functional. No responses are animated. A multitude of bugs are yet to be logged.
 
 
 ### Next Steps:
