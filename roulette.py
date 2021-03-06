@@ -1,4 +1,3 @@
-import random
 import pygame
 from classes import Player, Bet, Button, Spot, Table, Wheel
 
