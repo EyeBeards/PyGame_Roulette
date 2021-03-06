@@ -2,9 +2,11 @@ PyGame Roulette
 
 A review of basic Object Oriented Programming, using Fundamental Python and PyGame functions
 
+
 Version 0.0
 
 Core game logic is functional. No responses are animated. A multitude of bugs are yet to be logged.
+
 
 Next Steps:
 
